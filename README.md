@@ -34,6 +34,3 @@ python src/eda_shipping.py
 
 The script loads `data/Train.csv`, performs quality checks, creates univariate and bivariate plots, generates a numeric correlation heatmap, and writes the report outputs.
 
-## Submission Note
-
-The current package fully covers the provided Part 1 EDA requirements. Add later assessment parts to this repository when their complete instructions are available.
